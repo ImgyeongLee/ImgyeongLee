@@ -51,9 +51,9 @@ I am a full-stack web developer!
 
 ## Awards & Activities
 
-- I will graduate in June 2024! (Current GPA: 3.93/4.0)
+- I recently graduated as a Summa Cumme Laude in June 2024! (GPA: 3.93/4.0)
 - I have been on [Honor Roll](https://registrar.oregonstate.edu/osu-honor-roll) for 4 years and I was on the Dean's List 6 times!
-- 🫠 Recently implemented a multiplayer game with OpenAI & DALL-E and Convex! You can do real-time chatting with your friends and fight with your customized monster! Check our [post](https://devpost.com/software/adventureai) and [website](https://adventure-ai.vercel.app/)!
+- 🫠 Recently implemented a multiplayer game with OpenAI & DALL-E and Convex! You can chat with your friends in real-time and fight with your customized monster! Check our [post](https://devpost.com/software/adventureai) and [website](https://adventure-ai.vercel.app/)!
 - 🥇 Place 1st prize at OSU Beavs Hackathon with AI syllabus chatbot. [Read our post!](https://devpost.com/software/syllabot-1dxsil)
 - 🥇 Place 1st prize at OSU App Development Club Portfolio competition. This is my old portfolio website, so I am rebuilding it now. If you are interested in it still, [Check this out!](https://imgyeong-lee-portfolio-website.vercel.app/)
 - 🥈 Place Runner-up prize at AWS Amplify Studio & Hashnode Hackathon with a real-time multi-playing AI web game. [Read our post!](https://hackathoners0.hashnode.dev/are-you-smarter-than-ai)
@@ -62,6 +62,6 @@ I am a full-stack web developer!
 
 ## Super Personal Projects
 
-- Currently, I have shared a python [template](https://github.com/ImgyeongLee/MastodonBot) of [Mastodon](https://joinmastodon.org/) Automated bot for people who are not familiar with programming. (Korean version) You can see my post in [X](https://x.com/DONTEXIST_3/status/1719272573446529149?s=20) + **More than 200 people** already used it!
+- Currently, I have shared a python [template](https://github.com/ImgyeongLee/MastodonBot) of [Mastodon](https://joinmastodon.org/) Automated bot for people who are not familiar with programming. (Korean version) You can see my post in [X](https://x.com/DONTEXIST_3/status/1719272573446529149?s=20) + **More than 300 people** already used it!
 - Shared a similar bot template but this is a Discord bot with JavaScript. Check the post in [X](https://x.com/DONTEXIST_3/status/1725120780705603766?s=20) and [repo](https://github.com/ImgyeongLee/DiscordBot)!
-- I am in charge of Korean localization for [Todoon](https://pypi.org/project/todo-or-not/), which is out team's Python package!
+- I am in charge of Korean localization for [Todoon](https://pypi.org/project/todo-or-not/), which is our team's Python package!
