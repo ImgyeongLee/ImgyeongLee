@@ -51,7 +51,6 @@ I am a full-stack web developer!
 
 ## Awards & Activities
 
-- I recently graduated as a Summa Cumme Laude in June 2024! (GPA: 3.93/4.0)
 - I have been on [Honor Roll](https://registrar.oregonstate.edu/osu-honor-roll) for 4 years and I was on the Dean's List 6 times!
 - 🫠 Recently implemented a multiplayer game with OpenAI & DALL-E and Convex! You can chat with your friends in real-time and fight with your customized monster! Check our [post](https://devpost.com/software/adventureai) and [website](https://adventure-ai.vercel.app/)!
 - 🥇 Place 1st prize at OSU Beavs Hackathon with AI syllabus chatbot. [Read our post!](https://devpost.com/software/syllabot-1dxsil)
