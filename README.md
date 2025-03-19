@@ -2,6 +2,7 @@
 
 👋 Hello! My name is Imgyeong Lee. Welcome to my GitHub Page!<br>
 I am a full-stack web developer, and an incoming research-based student at the University of Alberta!
+
 My interest is in contributing to a new technology that leverages people's productivity regardless of their background programming knowledge.
 
 ## Tech
