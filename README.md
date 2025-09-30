@@ -1,9 +1,10 @@
 # Imgyeong Lee
 
 👋 Hello! My name is Imgyeong Lee. Welcome to my GitHub Page!<br>
-I am a full-stack web developer, and a thesis-based MSc student at the University of Alberta!
+I am a full-stack web developer. I am currently enrolled in the thesis-based Master's program at the University of Alberta, under the supervision of Professor Abram Hindle.
+My research interests are software engineering and machine learning.
 
-My interest is in contributing to a new technology that leverages people's productivity regardless of their background programming knowledge.
+I would like to contribute to a new technology that leverages people's productivity regardless of their programming background.
 
 ## Tech
 
