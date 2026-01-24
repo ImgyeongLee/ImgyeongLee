@@ -1,7 +1,7 @@
 # Imgyeong Lee
 
 👋 Hello! My name is Imgyeong Lee. Welcome to my GitHub Page!<br>
-I am a full-stack web developer. I am currently enrolled in the thesis-based Master's program at the University of Alberta, under the supervision of Professor Abram Hindle.
+I am a full-stack web developer. I am currently pursuing my thesis-based Master's degree at the University of Alberta, under the supervision of Professor Abram Hindle.
 My research interests are software engineering and machine learning.
 
 I would like to contribute to a new technology that leverages people's productivity regardless of their programming background.
@@ -54,18 +54,22 @@ I would like to contribute to a new technology that leverages people's productiv
 
 ## Awards & Activities
 
-- I have been on [Honor Roll](https://registrar.oregonstate.edu/osu-honor-roll) for 4 years and I was on the Dean's List 6 times!
-- Published a general guideline for creating a Mastodon bot for people who have no knowledge in programming! At least **300** people have used it so far!
+- 🥉 Place 3rd prize at NatHacks 2025 with an American Sign Language learning platform ($1,000 funding). [Read our DevPost!](https://devpost.com/software/the-she-coders-with-a-he?_gl=1*lkxx5p*_gcl_au*MTU1MjE5ODQ2OC4xNzY4MDgxNTEw*_ga*MTY2NjIzNTgxMS4xNzY4MDgxNTEw*_ga_0YHJK3Y10M*czE3NjkyMjUwMDAkbzMkZzAkdDE3NjkyMjUwMDAkajYwJGwwJGgw)
+- I have been on [Honor Roll](https://registrar.oregonstate.edu/osu-honor-roll) for 4 years, and I was on the Dean's List 6 times!
+- Published a general guideline for creating a Mastodon bot for people who do not know programming! At least **400** people have used it so far!
 - Designed and implemented a multiplayer game with OpenAI & AWS Services! Check my [post](https://community.aws/content/2rdVjekjiWOtSOWrV75cfOiAB0V/blessings-come-from-curses-bear-this-in-mind-be-with-your-creed)!
 - 🫠 Implemented a multiplayer game with OpenAI & DALL-E and Convex! You can chat with your friends in real-time and fight with your customized monster! Check our [post](https://devpost.com/software/adventureai) and [website](https://adventure-ai.vercel.app/)!
 - 🥇 Place 1st prize at OSU Beavs Hackathon with AI syllabus chatbot. [Read our post!](https://devpost.com/software/syllabot-1dxsil)
 - 🥇 Place 1st prize at OSU App Development Club Portfolio competition. This is my old portfolio website, so I am rebuilding it now. If you are interested in it still, [Check this out!](https://imgyeong-lee-portfolio-website.vercel.app/)
-- 🥈 Place Runner-up prize at AWS Amplify Studio & Hashnode Hackathon with a real-time multi-playing AI web game. [Read our post!](https://hackathoners0.hashnode.dev/are-you-smarter-than-ai)
+- 🥈 Place Runner-up prize at AWS Amplify Studio & Hashnode Hackathon with a real-time multiplayer AI web game. [Read our post!](https://hackathoners0.hashnode.dev/are-you-smarter-than-ai)
 - ⭐️ Won the prize from the OpenCV Hackathon with an AI gesture drawing mobile application. [Read our post!](https://www.hackster.io/hackathoners/ai-gesture-art-d36827)
-- ⭐️ My two class projects are in the **Hall of Fame**! One is [BioReact](https://web.engr.oregonstate.edu/~hessro/teaching/hof/cs494#w23), which is my first React application, and the other is [ObjectHunt](https://web.engr.oregonstate.edu/~hessro/teaching/hof/cs492#w23) which is real-time competitive multiplayer game.
+- ⭐️ My two class projects are in the **Hall of Fame**! One is [BioReact](https://web.engr.oregonstate.edu/~hessro/teaching/hof/cs494#w23), which is my first React application, and the other is [ObjectHunt](https://web.engr.oregonstate.edu/~hessro/teaching/hof/cs492#w23), which is a real-time competitive multiplayer game.
 
 ## Super Personal Projects
 
-- Currently, I have shared a python [template](https://github.com/ImgyeongLee/MastodonBot) of [Mastodon](https://joinmastodon.org/) Automated bot for people who are not familiar with programming. (Korean version) You can see my post in [X](https://x.com/DONTEXIST_3/status/1719272573446529149?s=20) + **More than 300 people** already used it!
-- Shared a similar bot template but this is a Discord bot with JavaScript. Check the post in [X](https://x.com/DONTEXIST_3/status/1725120780705603766?s=20) and [repo](https://github.com/ImgyeongLee/DiscordBot)!
+- I have shared a Python [template](https://github.com/ImgyeongLee/MastodonBot) of [Mastodon](https://joinmastodon.org/) Automated bot for people who are not familiar with programming. (Korean version) You can see my post in [X](https://x.com/DONTEXIST_3/status/1719272573446529149?s=20) + **More than 400 people** already used it!
+- Shared a similar bot template, but this is a Discord bot with JavaScript. Check the post in [X](https://x.com/DONTEXIST_3/status/1725120780705603766?s=20) and [repo](https://github.com/ImgyeongLee/DiscordBot)!
 - I am in charge of Korean localization for [Todoon](https://pypi.org/project/todo-or-not/), which is our team's Python package!
+
+## Publications
+- Mining Type Constructs Using Patterns in AI-Generated Code
