@@ -52,6 +52,9 @@ I would like to contribute to a new technology that leverages people's productiv
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
+## Publications
+- [Mining Type Constructs Using Patterns in AI-Generated Code](https://arxiv.org/pdf/2602.17955)
+
 ## Awards & Activities
 
 - 🥉 Place 3rd prize at NatHacks 2025 with an American Sign Language learning platform ($1,000 funding). [Read our DevPost!](https://devpost.com/software/the-she-coders-with-a-he?_gl=1*lkxx5p*_gcl_au*MTU1MjE5ODQ2OC4xNzY4MDgxNTEw*_ga*MTY2NjIzNTgxMS4xNzY4MDgxNTEw*_ga_0YHJK3Y10M*czE3NjkyMjUwMDAkbzMkZzAkdDE3NjkyMjUwMDAkajYwJGwwJGgw)
@@ -70,6 +73,3 @@ I would like to contribute to a new technology that leverages people's productiv
 - I have shared a Python [template](https://github.com/ImgyeongLee/MastodonBot) of [Mastodon](https://joinmastodon.org/) Automated bot for people who are not familiar with programming. (Korean version) You can see my post in [X](https://x.com/DONTEXIST_3/status/1719272573446529149?s=20) + **More than 400 people** already used it!
 - Shared a similar bot template, but this is a Discord bot with JavaScript. Check the post in [X](https://x.com/DONTEXIST_3/status/1725120780705603766?s=20) and [repo](https://github.com/ImgyeongLee/DiscordBot)!
 - I am in charge of Korean localization for [Todoon](https://pypi.org/project/todo-or-not/), which is our team's Python package!
-
-## Publications
-- Mining Type Constructs Using Patterns in AI-Generated Code
